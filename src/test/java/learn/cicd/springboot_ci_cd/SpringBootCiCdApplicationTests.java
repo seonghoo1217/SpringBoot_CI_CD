@@ -6,6 +6,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 /*
 @SpringBootTest
 */
+/*
 class SpringBootCiCdApplicationTests {
 
     @Test
@@ -13,3 +14,4 @@ class SpringBootCiCdApplicationTests {
     }
 
 }
+*/
