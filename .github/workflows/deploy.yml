@@ -20,6 +20,9 @@ jobs:
         run: chmod +x ./gradlew
         shell: bash
 
+      - name: Change gradlew permissions
+          run: chmod +x ./gradlew
+
       - name: Build with Gradle
         run: ./gradlew build
         shell: bash
